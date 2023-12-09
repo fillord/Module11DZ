@@ -1,0 +1,7 @@
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\bin\Debug\Module11DZ.exe.config
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\bin\Debug\Module11DZ.exe
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\bin\Debug\Module11DZ.pdb
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\obj\Debug\Module11DZ.csproj.AssemblyReference.cache
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\obj\Debug\Module11DZ.csproj.CoreCompileInputs.cache
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\obj\Debug\Module11DZ.exe
+C:\Users\qznur\source\repos\Module11DZ\Module11DZ\obj\Debug\Module11DZ.pdb
